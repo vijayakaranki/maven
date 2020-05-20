@@ -49,4 +49,5 @@ public class HelloWorldController {
         //do real logic, return a string which will be used for the navigation system of JSF
         return "success";
     }
+    System.out.println("Welcome!!!!");
 }
