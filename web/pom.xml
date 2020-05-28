@@ -58,15 +58,6 @@
                 <property>
                     <name>!jsf</name>
 	    </property>
-	    <property>
-             <project.java.version>1.8</project.java.version>
-            </property>
-	    <property>
-             <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
-             </property>
-             <property>
-<project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
-	     </property>
             </activation>
             <dependencies>
                 <dependency>
