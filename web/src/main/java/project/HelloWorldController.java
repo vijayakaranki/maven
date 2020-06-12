@@ -47,7 +47,8 @@ public class HelloWorldController {
      */
     public String send(){
         //do real logic, return a string which will be used for the navigation system of JSF
-        return "success";
+
+    	    return "success";
     }
     
 }
